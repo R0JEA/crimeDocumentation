@@ -96,7 +96,9 @@
 9. Gaujos nariai gali užsiimti nelegalia veikla atskirai nuo gaujos, tačiau negali naudotis jokiomis gaujos privilegijomis, transportu, F6 menu ir privalo pabaigti RP situaciją be gaujos pagalbos. (Vežti mirusius žaidejus apieškoti savo gaujai galima) 
 10. Jei asmuo nėra gaujos vadas, jis gali būti išmestas vado, nesvarbu ar yra gaujos įkūrėjas; 
 11. Gaujos vado posto nėra galimybės perleisti jokiam asmeniui, vado noru gauja gali būti nedelsiant uždaroma
-12. Vagystė iš gaujos spintos/ginklinės yra draudžiama```
+12. Vagystė iš gaujos spintos/ginklinės yra draudžiama
+13. Gaujos garažo importinės mašinos / būstinės yra priskiriamos būtent tam gaujos numeriui (1-4) ir seno/dabartinio gaujos boso prašymu negali būti perkeltos į kitą gaują/asmeninį garažą bei ištrintos
+```
 </code></pre>
 
 :palm\_tree: Gaujų įspėjimai :palm\_tree:&#x20;
