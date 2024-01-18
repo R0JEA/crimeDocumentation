@@ -98,6 +98,7 @@
 11. Gaujos vado posto nėra galimybės perleisti jokiam asmeniui, vado noru gauja gali būti nedelsiant uždaroma
 12. Vagystė iš gaujos spintos/ginklinės yra draudžiama
 13. Gaujos garažo importinės mašinos / būstinės yra priskiriamos būtent tam gaujos numeriui (1-4) ir seno/dabartinio gaujos boso prašymu negali būti perkeltos į kitą gaują/asmeninį garažą bei ištrintos
+14. Gauja gali turėti maksimaliai du importinius automobilius garaže neskaitant Burrito, BMW X6 ir Brabus700
 ```
 </code></pre>
 
