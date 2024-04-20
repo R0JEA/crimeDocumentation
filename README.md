@@ -2,7 +2,8 @@
 
 :palm\_tree:**Serverio taisyklės**:palm\_tree:
 
-```1.
+{% code fullWidth="false" %}
+```
 1. Privaloma laikytis visų serverio nurodytų sąvokų. 
 2. Bet kokia OOC nepagarba kitam žaidėjui ar administratoriui yra netoleruojama. 
 3. Serverio klaidų išnaudojimas griežtai draudžiamas, privalote pranešti administracijai, ar serverio discord platformoje. 
@@ -30,14 +31,14 @@
 25. VoiceRP yra leidžiamas (aiškinantis situaciją, būtina turėti vaizdo medžiagą įrodančią jūsų VoiceRP veiksmus), tačiau /do komandas atitinkančias RP turite rašyti. 
 26. Sėdėjimas Discord kanaluose būnant serveryje, net ir ne RolePlayinant tuo metu, yra skaitomas kaip Metagaming.
 27. Negalite turėti priešingos lyties veikėjo nei esate OOC.
-28. Voice activity draužiama naudoti.
+28. Voice activity draužiama naudoti, privalomas PushToTalk rėžimas.
 29. Asmuo gavęs reikalavimus iš asmens, kuris yra transporto priemonėje, gali pastariesiems nepaklusti. Asmuo duodantis demand'us privalo išlipti iš transporto priemonės ir tik tada juos duoti. 
 29.1. Žmogus gali pats sutikti sureaguoti į demandus dėl roleplay 
 29.2. Policijos megafonas yra spec. priemonė skirta duoti demandams, girdima labai dideliu atstumu. 
 30. Griežtai draudžiama naudoti šaunamuosius ginklus Paleto Bay, Sandy Shores miestuose, ginklo išsitraukimas netraktuojamas kaip naudojimas. Išimtis taikoma policijos pareigūnams ekstremaliu atveju.
 31. Kelių žaidėjų turėjimas nėra leidžiamas - t.y. negalite žaisti per dvi skirtingas steam paskyras. 
-32. Draudžiama bandyti apeidinėti Anti AFK sistema.
-33. Draudžiama apiplėšinėti/gangsteriauti daugiau negu 3 asmenims. Civiliai susibūrę iki 3 žmonių imtinai yra neskaitoma kaip gauja.
+32. Draudžiama bandyti apeidinėti Anti-AFK sistema.
+33. Su peršauta padanga galima važiuoti ne daugiau nei 50km/h. Su dviem ar daugiau peršautų padangų negalite važiuoti ir turite iškart sustoti. Taisyklės pažeidimas traktuojamas kaip PG.
 34. EroticRP/SexRP yra leidžiamas esant abiejų asmenų sutikimui. Nesutikus bent vienai pusei traktuojama kaip priekabiavimas, ForceRP/BrutalRP.
 35. Jeigu žaidimo mechanikos leidžia matyti atitinkamus daiktus ant asmens – jie yra matomi. (Pvz. Prikabinti stambus ginklai ant nugaros, pistoleto dėtuves ir kt.)
 36. Jeigu žaidimo mechanikos neleidžia pasiimti į rankas daikto/ginklo – jo negalima naudoti grasinimams, žudymui ar panašiems veiksmams. (Pvz. Peiliukas iš senukų, žirkles iš virtuves ar kt.)
@@ -48,9 +49,29 @@
 41. Jeigu esate be sąmonės, sušaudytas ar kitaip sužeistas ir jūsų kūno sužalojimai nėra "Galva", griežtai privalote siekti išgyvenimo. Bandymas numirti bus traktuojamas kaip CK.
 42. Pitinti, šaudyti į padangas esant dideliems greičiams nėra leistina. Tai yra skaitoma kaip VAL. Maksimalus leistinas greitis, norint peršauti padangas arba pitinti - nedaugiau 150 km/h
 43. Draudžiama piktnaudžiauti savo veikėjo mirtimi tam, kad asmuo išvengtų jam nenaudingų ar nuostolingų pasekmių. Jeigu Jūsų veikėjas yra sužeistas, Jūs gulite ant žemės, reiškia, kad esate gyvas. Tokiu atveju Jūs turite siekti išgyvenimo ir pulso dingimas šioje stadijoje prilygsta Role-Play situacijos vengimui (RefuseRP). Asmenys pažeidę šią taisyklę sulauks labai griežtų sankcijų arba tokiems asmenims bus taikomas priverstinis CK (Character Kill). 
-44. Draudžiama BE PRIEŽASTIES (t.y. nebent yra tęsiamas RP, pvz kontrakto su gauja netęsimas ir pan.) apiplėšinėti civilius jiems ramiai važinėjant gatvėmis ar šiaip vaikštant (išimtis: nelegalios lokacijos ribos)
+44. Draudžiama BE PRIEŽASTIES apiplėšinėti civilius jiems ramiai važinėjant gatvėmis ar šiaip vaikštant
+  • Išimtis-> Nebent yra tęsiamas RP, pvz kontrakto su gauja sulaužymas ir pan.
+  • Išimtis -> Asmuo yra nelegalios lokacijos ribose
+  • Išimtis -> Asmuo yra LosSantos ribose (pažymėta Priedas Nr. 1 apačioje), TAČIAU TUO ATVEJU negalite iš jo atimti legalių ir pavojaus nesukeliančių daiktų 
 45. Žaisdami mūsų serveryje sutinkate su jūsų kompiuterio patikros darymų, jei esate įtariamas sukčiavimu/pašalinių programų naudojimu.
 
+
+```
+{% endcode %}
+
+<figure><img src=".gitbook/assets/border (1).png" alt=""><figcaption><p>Priedas Nr. 1</p></figcaption></figure>
+
+:palm\_tree: Neoficialių gaujų taisyklės :palm\_tree:&#x20;
+
+```
+1. Bet kas gali sukurti savo neoficialią gaują
+2. Gaują gali sudaryti iki 4 žmonių imtinai
+3. Galioja visos normalios taisyklės, tiek gaujų taisyklės
+4. Tiek oficialios, tiek neoficialios gaujos negali dirbti išvien ir bendradarbiauti
+5. Neoficialios gaujos narys negali dirbti oficialaus darbo (mechanikai, policija, medikai)
+6. Neoficialios gaujos 'kurti' nereikia. Jau darant nusikaltimus keliese esate traktuojami kaip neoficiali gauja
+7. Visi gaujos nariai turi būti vienodai apsirengę
+8. Apiplėšimo taisyklės galioja tokios pat kaip paminėta serverio taisyklių 44 punkte
 ```
 
 :palm\_tree: Darbų taisyklės :palm\_tree:&#x20;
