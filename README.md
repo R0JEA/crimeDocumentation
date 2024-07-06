@@ -49,18 +49,11 @@
 41. Jeigu esate be sąmonės, sušaudytas ar kitaip sužeistas ir jūsų kūno sužalojimai nėra "Galva", griežtai privalote siekti išgyvenimo. Bandymas numirti bus traktuojamas kaip CK.
 42. Pitinti, šaudyti į padangas esant dideliems greičiams nėra leistina. Tai yra skaitoma kaip VAL. Maksimalus leistinas greitis, norint peršauti padangas arba pitinti - nedaugiau 150 km/h
 43. Draudžiama piktnaudžiauti savo veikėjo mirtimi tam, kad asmuo išvengtų jam nenaudingų ar nuostolingų pasekmių. Jeigu Jūsų veikėjas yra sužeistas, Jūs gulite ant žemės, reiškia, kad esate gyvas. Tokiu atveju Jūs turite siekti išgyvenimo ir pulso dingimas šioje stadijoje prilygsta Role-Play situacijos vengimui (RefuseRP). Asmenys pažeidę šią taisyklę sulauks labai griežtų sankcijų arba tokiems asmenims bus taikomas priverstinis CK (Character Kill). 
-44. Draudžiama BE PRIEŽASTIES apiplėšinėti civilius jiems ramiai važinėjant gatvėmis ar šiaip vaikštant
-  • Išimtis-> Nebent yra tęsiamas RP, pvz kontrakto su gauja sulaužymas ir pan.
-  • Išimtis -> Asmuo yra nelegalios lokacijos ribose
-  • Išimtis -> Asmuo yra už LosSantos ir už PaletoBay ribų (LS ribos pažymėta Priedas Nr. 1 apačioje), TAČIAU TUO ATVEJU negalite iš jo atimti legalių ir pavojaus nesukeliančių daiktų 
-45. Žaisdami mūsų serveryje sutinkate su jūsų kompiuterio patikros darymų, jei esate įtariamas sukčiavimu/pašalinių programų naudojimu.
+44. Žaisdami mūsų serveryje sutinkate su jūsų kompiuterio patikros darymų, jei esate įtariamas sukčiavimu/pašalinių programų naudojimu.
+45. Apiplešinėti galima visur, išskyrus NCZ ir Safe zonose.
 46. Žaisdami serveryje galite būti paprašyti naudoti mūsų custom external anticheat "CrimeGuard"
-
-
 ```
 {% endcode %}
-
-<figure><img src=".gitbook/assets/border (1).png" alt=""><figcaption><p>Priedas Nr. 1</p></figcaption></figure>
 
 :palm\_tree: Neoficialių gaujų taisyklės :palm\_tree:&#x20;
 
