@@ -52,8 +52,9 @@
 44. Draudžiama BE PRIEŽASTIES apiplėšinėti civilius jiems ramiai važinėjant gatvėmis ar šiaip vaikštant
   • Išimtis-> Nebent yra tęsiamas RP, pvz kontrakto su gauja sulaužymas ir pan.
   • Išimtis -> Asmuo yra nelegalios lokacijos ribose
-  • Išimtis -> Asmuo yra LosSantos ribose (pažymėta Priedas Nr. 1 apačioje), TAČIAU TUO ATVEJU negalite iš jo atimti legalių ir pavojaus nesukeliančių daiktų 
+  • Išimtis -> Asmuo yra už LosSantos ir už PaletoBay ribų (LS ribos pažymėta Priedas Nr. 1 apačioje), TAČIAU TUO ATVEJU negalite iš jo atimti legalių ir pavojaus nesukeliančių daiktų 
 45. Žaisdami mūsų serveryje sutinkate su jūsų kompiuterio patikros darymų, jei esate įtariamas sukčiavimu/pašalinių programų naudojimu.
+46. Žaisdami serveryje galite būti paprašyti naudoti mūsų custom external anticheat "CrimeGuard"
 
 
 ```
@@ -102,7 +103,9 @@
 7. Gaujos vado posto nėra galimybės perleisti jokiam asmeniui, vado noru gauja gali būti nedelsiant uždaroma
 8. Vagystė iš gaujos spintos/ginklinės yra draudžiama
 9. Gaujos garažo importinės mašinos / būstinės yra priskiriamos būtent tam gaujos numeriui (1-4) ir seno/dabartinio gaujos boso prašymu negali būti perkeltos į kitą gaują/asmeninį garažą bei ištrintos
-10. Gauja gali turėti maksimaliai 1 importinius automobilius garaže kuri gali nusipirkti OOC būdu.
+10. Gauja gali turėti maksimaliai 1 importinius automobilius garaže, kurį gali nusipirkti OOC būdu.
+11. Gaujos nariai gali naudoti savo asmeninį importinį automobilį veiksme
+12. 5-ąją gaują gauti galima anketos atrankos tvarka, kitas keturias reikia pirkti OOC būdu
 
 ```
 
@@ -120,6 +123,7 @@
 9. Gaujai turint 4 ir daugiau įspėjimų, jos veikla yra stabdoma (visi nariai yra atleidžiami), kol nebus panaikinti visi įspėjimai.
 10. Kai yra surinkti 4 ir daugiau įspėjimų ir yra leidžiama juos išpirkti, turi būti išperkami visi įspėjimai vienu metu.
 11. Administracija turi teisę uždaryti gaują bet kada be jokių pasiteisinimų.
+12. Gauja gali nusiimti užsidirbtą įspėjimą nemokamai išvysčius aukšto lygio RP situaciją, būtina prieš tai suderinti su administracija
 
 ```
 
