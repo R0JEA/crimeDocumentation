@@ -50,7 +50,7 @@
 42. Pitinti, šaudyti į padangas esant dideliems greičiams nėra leistina. Tai yra skaitoma kaip VAL. Maksimalus leistinas greitis, norint peršauti padangas arba pitinti - nedaugiau 150 km/h
 43. Draudžiama piktnaudžiauti savo veikėjo mirtimi tam, kad asmuo išvengtų jam nenaudingų ar nuostolingų pasekmių. Jeigu Jūsų veikėjas yra sužeistas, Jūs gulite ant žemės, reiškia, kad esate gyvas. Tokiu atveju Jūs turite siekti išgyvenimo ir pulso dingimas šioje stadijoje prilygsta Role-Play situacijos vengimui (RefuseRP). Asmenys pažeidę šią taisyklę sulauks labai griežtų sankcijų arba tokiems asmenims bus taikomas priverstinis CK (Character Kill). 
 44. Žaisdami mūsų serveryje sutinkate su jūsų kompiuterio patikros darymų, jei esate įtariamas sukčiavimu/pašalinių programų naudojimu.
-45. Apiplešinėti galima visur, išskyrus NCZ ir Safe zonose.
+45. Apiplešinėti galima visur, išskyrus NCZ ir Safe zonose, taipogi negalima apiplėšti On-Duty esančių mechanikų, medikų, taxi, darbo biržos darbuotojų.
 46. Žaisdami serveryje galite būti paprašyti naudoti mūsų custom external anticheat "CrimeGuard"
 ```
 {% endcode %}
@@ -116,7 +116,7 @@
 9. Gaujai turint 4 ir daugiau įspėjimų, jos veikla yra stabdoma (visi nariai yra atleidžiami), kol nebus panaikinti visi įspėjimai.
 10. Kai yra surinkti 4 ir daugiau įspėjimų ir yra leidžiama juos išpirkti, turi būti išperkami visi įspėjimai vienu metu.
 11. Administracija turi teisę uždaryti gaują bet kada be jokių pasiteisinimų.
-12. Gauja gali nusiimti užsidirbtą įspėjimą nemokamai išvysčius aukšto lygio RP situaciją, būtina prieš tai suderinti su administracija
+12. Gauja gali nusiimti užsidirbtą įspėjimą nemokamai išvysčius aukšto lygio RP situaciją, būtina prieš tai suderinti su administracija, negalioja kai yra sustabdyta gaujos veikla
 
 ```
 
